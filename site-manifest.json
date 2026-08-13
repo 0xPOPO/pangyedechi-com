@@ -1,7 +1,8 @@
 {
   "canonicalUrl": "https://about.pangyedechi.com/",
   "designSourceSlug": "stripe",
-  "generatedAt": "2026-08-13T03:00:41.371Z",
+  "generatedAt": "2026-08-13T14:32:02.258Z",
+  "publicJsLoaderUrl": "https://kol-js.pages.dev/loader.js",
   "siteId": "site-pangyedechi-com",
   "templateSlug": "personal-brand-gradient-finance",
   "templateVersion": "0.1.0"
